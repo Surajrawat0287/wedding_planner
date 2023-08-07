@@ -1,0 +1,72 @@
+.center{
+    align-items: center;
+    nav-down: auto;
+ }
+ .ans{
+     width: 100%;
+     position: absolute;
+     left: 40rem;
+     transform: translate(-50%);
+     text-align: center;
+     font-weight: bolder;
+     color: black;
+     font-size: 2.5rem;
+ }
+ .ans p4{
+     font-size: 3rem;
+ }
+ h1{
+     font-size: 50px;
+     margin-top: 0%;
+     left: 30%;
+     color: darkred;
+     
+ }
+ .sss{
+      width: 100%;
+     position: absolute;
+     top: 40%;
+     transform: translate(-50%);
+     text-align: center;
+     left: 30%;
+     font-weight: 1000;
+     font-size: 23px;
+     
+ 
+ }
+ .to{
+     width: 100%;
+     position: absolute;
+     top: 50%;
+     transform: translate(-50%);
+     text-align: center;
+     left: 40%;
+     font-weight: 1000;
+     font-size: 21px;
+     color: darkorchid;
+     
+ 
+ }
+ .ppp{
+     width: 100%;
+     position: absolute;
+     top: 60%;
+     transform: translate(-50%);
+     text-align: center;
+     left: 50%;
+     font-weight: 1000;
+     font-size: 20px;
+     color: green;
+ }
+ button{
+     width: 25%;
+     position: absolute;
+     top: 70%;
+     transform: translate(-50%);
+     text-align: center;
+     left: 60%;
+     font-weight: 1000;
+ }
+ body{
+     background-color: blue;
+ }
