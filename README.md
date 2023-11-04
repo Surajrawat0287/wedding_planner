@@ -1,1 +1,1 @@
-# wedding_project
+# wedding_planner
